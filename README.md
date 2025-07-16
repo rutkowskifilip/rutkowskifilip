@@ -1,20 +1,19 @@
 
 # Hi👋, I'm Filip
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rutkowskifilip/count.svg?"  />
-</div>
+
 
 ## 🚀 About Me
 
 * aspiring to be a fullstack developer
 * currently looking for a job
 * graduated from <a href="tl.krakow.pl" alt="zsł">Technikum Łączności nr 14 w Krakowie</a>
-* going to study computer science
+* recently completed my first year of Computer Science at <a href="informatyka.agh.edu.pl" alt="agh">AGH University of Kraków</a>
 
 
 ## 🔗 Let's get in touch
 <a href= "mailto: rutkowskifilip2005@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 <a href="https://linkedin.com/in/rutkowski-filip" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<a href="https://www.leetcode.com/rutkowskifilip" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="52" /></a>
 <a href="https://fb.com/filip.rutkowski.146" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 <a href="https://instagram.com/_rutkowski_filip" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 
